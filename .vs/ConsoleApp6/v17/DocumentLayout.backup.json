@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE6BBC6-CB96-4FCC-BE2D-1141A9456DD0}|ConsoleApp6.csproj|c:\\users\\roman\\onedrive\\desktop\\pap\\vis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE6BBC6-CB96-4FCC-BE2D-1141A9456DD0}|ConsoleApp6.csproj|c:\\users\\roman\\source\\repos\\consoleapp6\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp6",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\ConsoleApp6\\ConsoleApp6.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp6.csproj",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\ConsoleApp6\\ConsoleApp6.csproj",
+              "RelativeToolTip": "ConsoleApp6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T14:58:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\OneDrive\\Desktop\\pap\\vis\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\pap\\vis\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\OneDrive\\Desktop\\pap\\vis\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\pap\\vis\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:24:00.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
